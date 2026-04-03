@@ -17,7 +17,6 @@ for ( i=0; i<n; i++)
 	 second = next;
 	 }
 	 printf("%d\t", next);
-}
-printf("\n");
+}
 return 0;
 }
