@@ -15,7 +15,7 @@ printf("Enter a number: ");
 scanf("%d",&num);
 long long result = factorial(num);
 if ( result == -1){
-printf("factorial is not defined for negative number.\n");
+printf("factorial is not defined for negative number.\n"); 
 }else{
 printf("factorial of %d is %lld\n", num ,result);	
 }
